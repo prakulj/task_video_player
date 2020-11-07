@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088430191556",
+    "firebase_url": "https://videoplayer-b7924.firebaseio.com",
+    "project_id": "videoplayer-b7924",
+    "storage_bucket": "videoplayer-b7924.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088430191556:android:272fcfa323788cd3b52a91",
+        "android_client_info": {
+          "package_name": "com.example.video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088430191556-l5bv7c7muj93khmuqnhev03gkcgdc2r8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.video_player",
+            "certificate_hash": "60fe241fdc06fb204c26ea5be15e9ee5b68031e0"
+          }
+        },
+        {
+          "client_id": "1088430191556-f4nthpbs0m72pd2kttm5015462p63h93.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDpCM8Hs6Z8gF9O1z_Dl46fflMiaCL0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088430191556-f4nthpbs0m72pd2kttm5015462p63h93.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
